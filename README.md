@@ -22,5 +22,8 @@ l) V zavihku DMA Settings kliknite Add in v nastalem polju »select« izberite m
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![Slika mikroprocesorja](https://raw.githubusercontent.com/bozoslapy/Vaja6-ADC-scan-mode-conversion-Nucleo/4d47a22c9f71bfa54ba0d698eb1bf62a38a7e26f/Pinout%206.PNG)
+
+![Slika vezja](https://raw.githubusercontent.com/bozoslapy/Vaja6-ADC-scan-mode-conversion-Nucleo/f3d7343fc18bec1e27d7f05dfdf41b15e950c680/IMG-0370.jpg)
 
 
