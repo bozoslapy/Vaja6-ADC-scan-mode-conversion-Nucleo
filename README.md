@@ -32,3 +32,5 @@ Slika vezja -->
 ![Slika vezja](https://raw.githubusercontent.com/bozoslapy/Vaja6-ADC-scan-mode-conversion-Nucleo/f3d7343fc18bec1e27d7f05dfdf41b15e950c680/IMG-0370.jpg)
 
 
+Komentar na delovanje --> Koda ne deluje.
+
